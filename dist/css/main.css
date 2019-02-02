@@ -621,6 +621,8 @@ textarea {
     .main__item--shared {
       top: 70px; }
     .main__item--popular {
-      margin-left: 40px; } }
+      margin-left: 40px; }
+  .main__menu {
+    left: 20px; } }
 
 /*# sourceMappingURL=main.css.map */
