@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.3 (67297) - http://www.bohemiancoding.com/sketch -->
+    <title>share recap</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.979999959">
+        <g id="00_01_00_Synth_User_Profile" transform="translate(-1254.000000, -27.000000)">
+            <g id="header">
+                <g id="profile-section" transform="translate(1020.000000, 20.000000)">
+                    <g id="icons" transform="translate(194.000000, 0.000000)">
+                        <g id="share-recap" transform="translate(32.000000, 0.000000)">
+                            <rect id="Rectangle-2-Copy-2" fill="#EFF3F6" opacity="0" x="0" y="0" width="32" height="32"></rect>
+                            <rect id="Rectangle" x="8" y="8" width="16" height="16"></rect>
+                            <rect id="Rectangle-10" stroke="#3E4056" stroke-width="2" x="10" y="12" width="12" height="10" rx="3"></rect>
+                            <path d="M13.0833333,12.7344356 C14.2339266,12.7344356 16,11.8390051 16,10.7344356 C16,9.6298661 14.2339266,8.7344356 13.0833333,8.7344356 C11.9327401,8.7344356 11,9.6298661 11,10.7344356 C11,11.8390051 11.9327401,12.7344356 13.0833333,12.7344356 Z" id="Oval-6-Copy-3" stroke="#3E4056" stroke-width="2" transform="translate(13.500000, 10.734436) rotate(20.000000) translate(-13.500000, -10.734436) "></path>
+                            <path d="M18.0833333,12.7344356 C19.2339266,12.7344356 21,11.8390051 21,10.7344356 C21,9.6298661 19.2339266,8.7344356 18.0833333,8.7344356 C16.9327401,8.7344356 16,9.6298661 16,10.7344356 C16,11.8390051 16.9327401,12.7344356 18.0833333,12.7344356 Z" id="Oval-6-Copy-4" stroke="#3E4056" stroke-width="2" transform="translate(18.500000, 10.734436) scale(-1, 1) rotate(20.000000) translate(-18.500000, -10.734436) "></path>
+                            <rect id="Rectangle-11" fill="#3E4056" x="15" y="12" width="2" height="10"></rect>
+                            <path d="M23,16.000059 C23.0030907,16.0005451 23,16.0040011 23,16.009222 L23,16.0000579 Z M23,16.0000579 L23,12.9979131 C23,12.4485233 22.5529236,12 22.0059397,12 L9.99406028,12 C9.44649392,12 9,12.4470867 9,12.9979131 L9,16.009222 C9,15.99817 9.00183916,16 9.00087166,16 L22.9991283,16 C22.9994622,16 22.9997511,16.0000199 23,16.000059 Z" id="Rectangle-11-Copy-2" stroke="#3E4056" stroke-width="2" fill="#FFFFFF"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

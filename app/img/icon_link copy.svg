@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.3 (67297) - http://www.bohemiancoding.com/sketch -->
+    <title>a/icon_link copy</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M5,6.99668583 C5,4.23709245 7.24419519,2 10,2 C12.7614237,2 15,4.24157855 15,6.99668583 L15,13.0033142 C15,15.7629076 12.7558048,18 10,18 C7.23857625,18 5,15.7584215 5,13.0033142 L5,6.99668583 Z M7,6.99715203 L7,13.002848 C7,14.6583772 8.34314575,16 10,16 C11.6534829,16 13,14.6581293 13,13.002848 L13,6.99715203 C13,5.34162278 11.6568542,4 10,4 C8.34651712,4 7,5.34187067 7,6.99715203 Z M5,8 L5,12 L7,12 L7,8 L5,8 Z M13,8 L13,12 L15,12 L15,8 L13,8 Z M9,7.99077797 C9,7.44358641 9.44386482,7 10,7 C10.5522847,7 11,7.45097518 11,7.99077797 L11,12.009222 C11,12.5564136 10.5561352,13 10,13 C9.44771525,13 9,12.5490248 9,12.009222 L9,7.99077797 Z" id="path-1"></path>
+        <path d="M5,12 C5,11.4477153 5.44386482,11 6,11 C6.55228475,11 7,11.4438648 7,12 C7,12.5522847 6.55613518,13 6,13 C5.44771525,13 5,12.5561352 5,12 Z M13,12 C13,11.4477153 13.4438648,11 14,11 C14.5522847,11 15,11.4438648 15,12 C15,12.5522847 14.5561352,13 14,13 C13.4477153,13 13,12.5561352 13,12 Z M13,8 C13,7.44771525 13.4438648,7 14,7 C14.5522847,7 15,7.44386482 15,8 C15,8.55228475 14.5561352,9 14,9 C13.4477153,9 13,8.55613518 13,8 Z M5,8 C5,7.44771525 5.44386482,7 6,7 C6.55228475,7 7,7.44386482 7,8 C7,8.55228475 6.55613518,9 6,9 C5.44771525,9 5,8.55613518 5,8 Z" id="path-3"></path>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="00_01_00_Synth_User_Profile" transform="translate(-955.000000, -601.000000)">
+            <g id="a/icon_link-copy" transform="translate(953.000000, 599.000000)">
+                <rect id="Rectangle-8" opacity="0.2" x="2" y="2" width="16" height="16"></rect>
+                <g id="Group">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="Combined-Shape" fill="#3E4056" transform="translate(10.000000, 10.000000) rotate(45.000000) translate(-10.000000, -10.000000) " xlink:href="#path-1"></use>
+                    <g id="_/color_dark_gray" mask="url(#mask-2)" fill="#3E4056">
+                        <g transform="translate(2.000000, 2.000000)" id="Color">
+                            <rect x="0" y="0" width="16" height="16"></rect>
+                        </g>
+                    </g>
+                </g>
+                <mask id="mask-4" fill="white">
+                    <use xlink:href="#path-3"></use>
+                </mask>
+                <use id="Combined-Shape" fill="#3E4056" transform="translate(10.000000, 10.000000) rotate(45.000000) translate(-10.000000, -10.000000) " xlink:href="#path-3"></use>
+                <g id="_/color_red-copy" mask="url(#mask-4)" fill="#3E4056">
+                    <g transform="translate(2.000000, 2.000000)" id="Color">
+                        <rect x="0" y="0" width="16" height="16"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
