@@ -22,9 +22,6 @@
     &__tittle a img{
       transform: scale(1.7);
     }
-    &__bar{
-      cursor: pointer;
-    }
     &__list{
       max-width: 100%;
       margin-top: 20px;
@@ -34,7 +31,7 @@
     }
     &__cycle{
       left: 20px;
-      top: 20px;
+      top: 5px;
     }
   }
   .main{
@@ -74,6 +71,27 @@
     &__switcher{
       margin-left: 0;
 
+    }
+  }
+}
+@media (max-width:380px){
+  .main{
+    &__item{
+      width: 300px;
+      padding: 10px;
+      height: 150px;
+      &--tittle{
+        font-size: 20px;
+      }
+      a{
+        margin-left: 20px;
+      }
+      &--shared{
+        top: 70px;
+      }
+      &--popular{
+        margin-left: 40px;
+      }
     }
   }
 }

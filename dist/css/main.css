@@ -574,8 +574,6 @@ textarea {
     justify-content: space-around; }
   .header__tittle a img {
     transform: scale(1.7); }
-  .header__bar {
-    cursor: pointer; }
   .header__list {
     max-width: 100%;
     margin-top: 20px; }
@@ -583,7 +581,7 @@ textarea {
       height: 30px; }
   .header__cycle {
     left: 20px;
-    top: 20px; }
+    top: 5px; }
   .main .wrapper {
     flex-wrap: wrap;
     padding-top: 30px;
@@ -610,5 +608,19 @@ textarea {
     left: 70px; }
   .main__switcher {
     margin-left: 0; } }
+
+@media (max-width: 380px) {
+  .main__item {
+    width: 300px;
+    padding: 10px;
+    height: 150px; }
+    .main__item--tittle {
+      font-size: 20px; }
+    .main__item a {
+      margin-left: 20px; }
+    .main__item--shared {
+      top: 70px; }
+    .main__item--popular {
+      margin-left: 40px; } }
 
 /*# sourceMappingURL=main.css.map */
